@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>yibeo bouda!</h1>
+        <h1>fofo de sempai World!</h1>
+         <h1>yibeogo World!</h1>
     </body>
 </html>
